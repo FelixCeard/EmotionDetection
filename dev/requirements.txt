@@ -1,0 +1,11 @@
+tqdm
+kagglehub
+torchaudio
+soundfile
+mlop[full]
+torch
+torchmetrics
+scikit-learn
+python-dotenv
+fire
+encodec
